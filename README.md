@@ -1,5 +1,7 @@
 # iPod Bluetooth Board, Firmware, and Software
 
+[![Compile Sketch](https://github.com/freemyipod/iPodBluetooth/actions/workflows/compile-board-firmware.yml/badge.svg?branch=ci)](https://github.com/freemyipod/iPodBluetooth/actions/workflows/compile-board-firmware.yml)
+
 ## [Watch The Video First](https://youtu.be/AVvXbqsTUnk)
 ### [Featured on Hackaday!](https://hackaday.com/2022/09/14/esp32-adds-bluetooth-to-an-ipod-nano/)
 
